@@ -4,6 +4,6 @@ A human readable form of the license can be found here
 
 https://creativecommons.org/licenses/by-sa/3.0/
 
-A legalese vesion of the license can be found here
+A legalese version of the license can be found here
 
 https://creativecommons.org/licenses/by-sa/3.0/legalcode
