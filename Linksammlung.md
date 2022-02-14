@@ -27,3 +27,11 @@ https://github.com/liffiton/Arduino-Cheat-Sheet
 Dort ist insbesondere das Pin-out Diagramm interessant
 
 [Project Hub mit Anwendungsbeispielen](https://create.arduino.cc/projecthub)
+
+## Elektrotechnik
+
+Ohmsches Gesetz, Parallelschaltung, Reihenschaltung
+
+https://www.michael-konczer.com/tech/de/elektrotechnik/ohmsches-gesetz
+
+[Video zu Kirchhoffschen Regeln](https://youtu.be/47Z51oV4Cg4)
