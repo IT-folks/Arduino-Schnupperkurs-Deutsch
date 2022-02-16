@@ -16,7 +16,7 @@ https://funduino.de
 
 https://github.com/liffiton/Arduino-Cheat-Sheet
 
-## Offizielle Referenz und Arduino Webseiten
+## Offizielle Referenz und Arduino Webseiten (überwiegend Englisch)
 
 [Arduino Webseite](https://www.arduino.cc)
 
@@ -35,3 +35,6 @@ Ohmsches Gesetz, Parallelschaltung, Reihenschaltung
 https://www.michael-konczer.com/tech/de/elektrotechnik/ohmsches-gesetz
 
 [Video zu Kirchhoffschen Regeln](https://youtu.be/47Z51oV4Cg4)
+
+[Widerstandsrechner für LEDs](https://leds-and-more.de/Widerstandsrechner
+)
