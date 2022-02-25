@@ -28,6 +28,10 @@ Dort ist insbesondere das Pin-out Diagramm interessant
 
 [Project Hub mit Anwendungsbeispielen](https://create.arduino.cc/projecthub)
 
+## Arduino Robot Kit
+
+[ELEGOO SMART ROBOT CAR KIT](https://www.elegoo.com/blogs/arduino-projects/elegoo-smart-robot-car-kit-v4-0-tutorial)
+
 ## Elektrotechnik
 
 Ohmsches Gesetz, Parallelschaltung, Reihenschaltung
